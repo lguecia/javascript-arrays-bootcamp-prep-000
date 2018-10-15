@@ -5,8 +5,9 @@ var ingredient4 = "skittles";
 
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
-function addElementToBeginningOfArray(chocolateBars, "")
-document.write(chocolateBars[5])
+function addElementToBeginningOfArray(chocolateBars, "snickers")
+
+chocolateBars
 
 function destructivelyAddElementToBeginningOfArray(chocolateBars)
 
