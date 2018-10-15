@@ -7,13 +7,13 @@ var ingredient6 = "garlic";
 
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
-function addElementToBeginningOfArray([0])
+function addElementToBeginningOfArray(chocolateBars)
 
-function destructivelyAddElementToBeginningOfArray()
+function destructivelyAddElementToBeginningOfArray(chocolateBars)
 
-function addElementToEndOfArray()
+function addElementToEndOfArray(chocolateBars)
 
-function destructivelyAddElementToEndOfArray()
+function destructivelyAddElementToEndOfArray(chocolateBars)
 
 function accessElementInArray (array, index)
 console.log(element)
