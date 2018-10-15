@@ -1,14 +1,12 @@
-var ingredient1 = "bread";
-var ingredient2 = "mild cheese";
-var ingredient3 = "sharp cheese";
-var ingredient4 = "butter";
-var ingredient5 = "tomato";
-var ingredient6 = "garlic";
+var ingredient1 = "snickers";
+var ingredient2 = "hundred grand";
+var ingredient3 = "kitkat";
+var ingredient4 = "skittles";
 
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
-function addElementToBeginningOfArray(chocolateBars, "chocolate");
-document.write(chocolateBars)
+function addElementToBeginningOfArray(chocolateBars, "")
+document.write(chocolateBars[5])
 
 function destructivelyAddElementToBeginningOfArray(chocolateBars)
 
