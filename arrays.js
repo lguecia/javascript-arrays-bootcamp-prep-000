@@ -19,7 +19,7 @@ function destructivelyAddElementToEndOfArray(array, element) {
 }
 
 function destrutivelyRemoveElementFromBeginningOfArray(array) {
-  array.unshift;
+  array.shift;
   array;
 }
 
