@@ -35,7 +35,7 @@ describe('arrays', () => {
       expect(destructivelyAddElementToBeginningOfArray([1], 'foo')).to.eql(['foo', 1])
     })
 
-    it('alters 'the original array', () => {
+    it('alters the original array', () => {
       const array = [1]
 
       destructivelyAddElementToBeginningOfArray(array, 'foo')
