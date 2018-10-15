@@ -5,19 +5,17 @@ var ingredient4 = "skittles";
 
 var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
 
-function addElementToBeginningOfArray([1], "foo")
+function addElementToBeginningOfArray([array], element)
 
-chocolateBars
+function destructivelyAddElementToBeginningOfArray([array], element)
 
-function destructivelyAddElementToBeginningOfArray(chocolateBars)
+function addElementToEndOfArray([array], element)
 
-function addElementToEndOfArray(chocolateBars)
+function destructivelyAddElementToEndOfArray([array], element)
 
-function destructivelyAddElementToEndOfArray(chocolateBars)
-
-function accessElementInArray (array, index)
+function accessElementInArray ([array], index)
 console.log(element)
 
 function destructivelyRemoveElementFromBeginningOfArray()
 
-function removeElementFromBeginningOfArray(array)
+function removeElementFromBeginningOfArray([array])
