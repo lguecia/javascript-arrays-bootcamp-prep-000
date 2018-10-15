@@ -28,4 +28,4 @@ console.log(element)
 
 function destructivelyRemoveElementFromBeginningOfArray()
 
-function removeElementFromBeginningOfArray([array])
+function removeElementFromBeginningOfArray(array)
