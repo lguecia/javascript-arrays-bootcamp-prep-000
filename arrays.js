@@ -40,4 +40,4 @@ function accessElementInArray (array, index) {
   return array [index];
 }
 
-describe ('destrutively')
+describe ('destrutivelyAddElementToBeginningOfArray')
