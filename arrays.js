@@ -13,10 +13,10 @@ var cities = ["New York", "San Francisco"];
 
 cities;
 
-function addElementToBeginningOfArray();
+function addElementToBeginningOfArray()
 
-function destructivelyAddElementToBeginningOfArray();
+function destructivelyAddElementToBeginningOfArray()
 
-function addElementToEndOfArray();
+function addElementToEndOfArray()
 
-function destructivelyAddElementToEndOfArray();
+function destructivelyAddElementToEndOfArray()
