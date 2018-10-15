@@ -7,23 +7,19 @@ var ingredient6 = "garlic";
 
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
-function.chocolateBars() {
-  return
-}
-
 var cities = ["New York", "San Francisco"];
 
 ["Philadelphia",...cities];
 
 cities;
 
-function addElementToBeginningOfArray(array, element)
+function addElementToBeginningOfArray()
 
-function destructivelyAddElementToBeginningOfArray(array, element)
+function destructivelyAddElementToBeginningOfArray()
 
-function addElementToEndOfArray(array, element)
+function addElementToEndOfArray()
 
-function destructivelyAddElementToEndOfArray(array, element)
+function destructivelyAddElementToEndOfArray()
 
 function accessElementInArray (array, index)
 console.log(element)
