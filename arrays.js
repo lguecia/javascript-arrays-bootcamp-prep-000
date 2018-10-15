@@ -5,7 +5,7 @@ var ingredient4 = "skittles";
 
 var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
 
-function addElementToBeginningOfArray(chocolateBars, "snickers")
+function addElementToBeginningOfArray([1], "foo")
 
 chocolateBars
 
