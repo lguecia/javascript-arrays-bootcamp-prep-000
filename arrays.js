@@ -22,10 +22,3 @@ function destrutivelyRemoveElementFromBeginningOfArray(array, element) {
   array.unshift;
   array;
 }
-
-function accessElementInArray ([array], index)
-console.log(element)
-
-function destructivelyRemoveElementFromBeginningOfArray()
-
-function removeElementFromBeginningOfArray(array)
