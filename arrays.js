@@ -25,3 +25,5 @@ function accessElementInArray (array, index)
 console.log(element)
 
 function destructivelyRemoveElementFromBeginningOfArray()
+
+function removeElementFromBeginningOfArray(array)
