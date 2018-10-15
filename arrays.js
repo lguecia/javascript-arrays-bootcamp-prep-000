@@ -7,7 +7,7 @@ var ingredient6 = "garlic";
 
 var chocolateBars = new Array("snickers", "hundred grand", "kitkat", "skittles");
 
-function.chocolateBars
+function.chocolateBars()
 
 var cities = ["New York", "San Francisco"];
 
