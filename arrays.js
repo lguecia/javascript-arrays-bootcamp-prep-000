@@ -18,8 +18,8 @@ function destructivelyAddElementToEndOfArray(array, element) {
   return array;
 }
 
-function destrutivelyRemoveElementFromBeginningOfArray(array, element) {
-  array.shift(element);
+function destrutivelyRemoveElementFromBeginningOfArray(array) {
+  array.shift(1);
   array;
 }
 
