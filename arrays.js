@@ -8,7 +8,7 @@ var ingredient6 = "garlic";
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
 function addElementToBeginningOfArray(chocolateBars, "chocolate");
-return chocoalte
+document.write
 
 function destructivelyAddElementToBeginningOfArray(chocolateBars)
 
